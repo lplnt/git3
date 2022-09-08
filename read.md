@@ -1,3 +1,3 @@
 ﻿1234567
 
-print (Hi, Stanislav!)
+**Hi, Stanislav!**
